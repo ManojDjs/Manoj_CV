@@ -16,7 +16,23 @@
                     Worked with Core Python Programming, Writing advanced concepts like asyncronus Programming.
                 </li>
                 </div>
-            
+                <div class="text-orange-600 mb-1">
+                    <li>
+                                Implemented login modules with JWT authentication, pagination for front end products, placing order, 
+                    notifications to front end with Django channels.
+                    </li>
+                </div>
+                <div class="text-orange-600 mb-1">
+                    <li>
+                             Created pandas’ API end point for data cleaning before machine learning.Used advanced concepts like asyncio and generators for accuracy and memory managemen
+                    </li>
+                </div>
+                <div class="text-orange-600 mb-1">
+                    <li>
+                              Conducting unit and integration testing for Django rest Api’s
+                    </li>
+                </div>
+
 
             
                  <div class="text-orange-600 mb-1">
@@ -29,14 +45,14 @@
             
                  <div class="text-orange-600 mb-1">
                      <li>
-                   Web Scraping with Python Selenium. For Scraping data from job boards.And for data cleaning.
+                   Responsible for web scraping, python scripting and Deploying to CI/CD CircleCi Interface
                    </li>
                 </div>
             
             
                  <div class="text-orange-600 mb-1">
                      <li>
-                    Vue JS Front-End.
+                    Also worked with Vue JS Front-End.
                     </li>
                 </div>
             

@@ -14,7 +14,7 @@
     <div class="surface-0 text-700 text-center p-3 box border-round shadow-7">
         <div class="text-900 font-bold text-5xl mb-3">DETAILS</div>
           <label for="email" class="block text-53xl text-900 font-bold mb-2">Full Name:<InputText id="email" type="text" value="Jaya Deep Satya Manoj Doddi" class="w-full mb-3 text-center" /></label>
-       <label for="email" class="block text-53xl text-900 font-bold mb-2">Address and PostCode:<InputText id="phone" type="text" value="11 Normanton Terrace,NE46PP" class="w-full mb-3 text-center" /></label>
+       <label for="email" class="block text-53xl text-900 font-bold mb-2">Address and PostCode:<InputText id="phone" type="text" value="47a,Cranford Lane, Hounslow, TW59HA" class="w-full mb-3 text-center" /></label>
         
         <label for="email" class="block text-53xl text-900 font-bold mb-2">Email:<InputText id="email" type="text" value="Djsmanoj0000@gmail.com" class="w-full mb-3 text-center" /></label>
          <label for="email" class="block text-53xl text-900 font-bold mb-2">Phone:<InputText id="phone" type="text" value="+44-7404089651" class="w-full mb-3 text-center" /></label>
